@@ -23,6 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A716DDB629E0353A008E4306 /* average.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = average.h; sourceTree = "<group>"; };
+		A716DDB729E0353A008E4306 /* average.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = average.c; sourceTree = "<group>"; };
 		A736B59329DAEAB9006B1038 /* calculator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = calculator; sourceTree = BUILT_PRODUCTS_DIR; };
 		A736B59629DAEAB9006B1038 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +43,8 @@
 		A736B58A29DAEAB9006B1038 = {
 			isa = PBXGroup;
 			children = (
+				A716DDB629E0353A008E4306 /* average.h */,
+				A716DDB729E0353A008E4306 /* average.c */,
 				A736B59529DAEAB9006B1038 /* calculator */,
 				A736B59429DAEAB9006B1038 /* Products */,
 			);
